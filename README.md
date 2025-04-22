@@ -48,8 +48,8 @@ TODO djsljl
 > For more information about copyright, check the warning at the end.
 
 <!-- *Attention about copyright* -->
-<!-- > [!WARNING]
-> Todo el contenido de este repositorio, incluyendo este README, es propiedad de DaniCaDev y está protegido por derechos de autor. Su reproducción, distribución o modificación sin autorización previa está estrictamente prohibida. Para conocer los términos completos, consulta el archivo [License]() -->
+> [!WARNING]
+> All the content in this repository, including this README file, has the ownership of MangoDrawsDev and it's protected under copyright. Its reproduction, distribution or modification without previous autorization, are strictly prohibited. To know the complete terms and consitions, see the [License]() file.
 
 Credit: [MangoDrawsDev]()
 
