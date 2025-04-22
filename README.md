@@ -51,6 +51,6 @@ TODO djsljl
 > [!WARNING]
 > All the content in this repository, including this README file, has the ownership of MangoDrawsDev and it's protected under copyright. Its reproduction, distribution or modification without previous autorization, are strictly prohibited. To know the complete terms and consitions, see the [License]() file.
 
-Credit: [MangoDrawsDev]()
+Credit: [DaniCaDev](https://github.com/DaniCaDev) and [MangoDrawsDev](https://github.com/MangoDrawsDev)
 
 Last edited: 22/04/2025
