@@ -93,10 +93,12 @@ TODO djsljl
 <!-- *"Music" section* -->
 <h2>
   <b>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dtMmJ5Z3VoN2pmd2Fwcnl3NGIybjdnNnNmM3pocWM0MjQweWN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LNOZoHMI16ydtQ8bGG/giphy.gif" width="35">
     Jukebox
   </b>
 </h2>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316jkmkrvwgggwyq7iwkyqau2kxm&count=5)
 
 <!-- *"Contact" section* -->
 <h2>
