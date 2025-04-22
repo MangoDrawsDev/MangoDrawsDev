@@ -54,7 +54,9 @@ TODO djsljl
 
 <!-- *Attention about copyright* -->
 > [!WARNING]
-> All the content in this repository, including this README file, has the ownership of MangoDrawsDev and it's protected under copyright. Its reproduction, distribution or modification without previous autorization, are strictly prohibited. To know the complete terms and consitions, see the [License]() file.
+> All the content in this repository, including this README file, has the ownership of [MangoDrawsDev](https://github.com/MangoDrawsDev) and it's protected under copyright. Its reproduction, distribution or modification without previous autorization, are strictly prohibited. To know the complete terms and consitions, see the [License]() file.
+
+<br>
 
 Credit: [DaniCaDev](https://github.com/DaniCaDev) and [MangoDrawsDev](https://github.com/MangoDrawsDev)
 
