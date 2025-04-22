@@ -98,7 +98,13 @@ TODO djsljl
   </b>
 </h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316jkmkrvwgggwyq7iwkyqau2kxm&count=5)
+<div align="center">
+    <a href="https://open.spotify.com/user/316jkmkrvwgggwyq7iwkyqau2kxm">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=316jkmkrvwgggwyq7iwkyqau2kxm&count=5" alt="Spotify recently played"  />
+    </a>
+  </div>
+
+<!-- /![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316jkmkrvwgggwyq7iwkyqau2kxm&count=5) -->
 
 <!-- *"Contact" section* -->
 <h2>
