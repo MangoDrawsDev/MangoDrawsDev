@@ -111,7 +111,7 @@ TODO djsljl
 <!-- *"Contact" section* -->
 <h2>
   <b>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV5NXZiYXp6b2FyeHRyZzZ3Z2IwanpnenV2ZWYwNjZ0cGEyeXBnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Mr7Tfg7xasfx5cPJ7Y/giphy.gif" width="30">
     Contact
   </b>
 </h2>
