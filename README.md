@@ -85,7 +85,7 @@ TODO djsljl
 <!-- *"Stats" section* -->
 <h2>
   <b>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UyMzluOWFyOGRkeDE0ZWhydG9oMGF3eWM0eTZqYTViNDI1bHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PBo18KBOkMqbRBhOXa/giphy.gif" width="30">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UyMzluOWFyOGRkeDE0ZWhydG9oMGF3eWM0eTZqYTViNDI1bHFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PBo18KBOkMqbRBhOXa/giphy.gif" width="38">
     Activity
   </b>
 </h2>
