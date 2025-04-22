@@ -47,10 +47,11 @@ TODO djsljl
 
 <!-- Moving text from Typing-SVG website -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too...)](https://git.io/typing-svg) -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too..." alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too..." alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- *Attention about warning at the end* -->
 > [!IMPORTANT]
