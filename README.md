@@ -43,6 +43,11 @@ TODO djsljl
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ5eDNydmpxczEzNjY4NG1ueGFlZ3QyczM1ZDB6d2tscG0zYmM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="60">
 </h1>
 
+<br>
+
+<!-- Moving text from Typing-SVG website -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too...)](https://git.io/typing-svg)
+
 <!-- *Attention about warning at the end* -->
 > [!IMPORTANT]
 > For more information about copyright, check the warning at the end.
