@@ -41,7 +41,7 @@ TODO djsljl
   </b>
 </h1>
 
-<img style="display: block; margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ5eDNydmpxczEzNjY4NG1ueGFlZ3QyczM1ZDB6d2tscG0zYmM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="100">
+<img style="float: center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ5eDNydmpxczEzNjY4NG1ueGFlZ3QyczM1ZDB6d2tscG0zYmM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="100">
 
 <!-- *Attention about warning at the end* -->
 
