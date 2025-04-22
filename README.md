@@ -39,9 +39,9 @@ TODO djsljl
     Welcome, I'm S4yuM4ng0!
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdzcTYzZmRmdjB0eDg2aDRjamRucWdmb3kyMDYybzIxbmhyZmtvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hghd3BFJGuWYpIiWGb/giphy.gif" width="20">
   </b>
-
-  <img style="display: block; margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ5eDNydmpxczEzNjY4NG1ueGFlZ3QyczM1ZDB6d2tscG0zYmM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="100">
 </h1>
+
+<img style="display: block; margin: auto;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ5eDNydmpxczEzNjY4NG1ueGFlZ3QyczM1ZDB6d2tscG0zYmM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="100">
 
 <!-- *Attention about warning at the end* -->
 
