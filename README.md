@@ -77,7 +77,7 @@ TODO djsljl
 <!-- *"Comissions/Brushes" section* -->
 <h2>
   <b>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5oMGcxdTZvMXZuZXYybThza2RneW1wYncwZGc1dXU4NTVvdjY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hbwVusMZiolq47LnAe/giphy.gif" width="30">
     Services
   </b>
 </h2>
