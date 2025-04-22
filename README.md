@@ -44,8 +44,12 @@ TODO djsljl
 </h1>
 
 <!-- *Attention about warning at the end* -->
-> [!IMPORTANT]
-> For more information about copyright, check the warning at the end.
+<div center>
+
+  > [!IMPORTANT]
+  > For more information about copyright, check the warning at the end.
+  
+</div>
 
 <!-- *Attention about copyright* -->
 <!-- > [!WARNING]
