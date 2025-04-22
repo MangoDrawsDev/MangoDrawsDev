@@ -21,7 +21,7 @@ TODO djsljl
 -->
 
 <!-- *
-  Greeting + warning about warning at the end
+  //Greeting + warning about warning at the end
   about me?
   skills and tools 
   spam €€€
@@ -46,7 +46,6 @@ TODO djsljl
 <br>
 
 <!-- Moving text from Typing-SVG website -->
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too...)](https://git.io/typing-svg) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=00A160&center=true&vCenter=true&width=435&lines=Have+a+look+and+get+to+know+me!;You+can+check+my+socials+too..." alt="Typing SVG" />
@@ -56,6 +55,56 @@ TODO djsljl
 <!-- *Attention about warning at the end* -->
 > [!IMPORTANT]
 > For more information about copyright, check the warning at the end.
+
+<br>
+
+<!-- *"About Me" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    About Me
+  </b>
+</h2>
+
+<!-- *"Skills & Tools" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    Skills & Tools
+  </b>
+</h2>
+
+<!-- *"Comissions/Brushes" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    Services
+  </b>
+</h2>
+
+<!-- *"Stats" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    Activity
+  </b>
+</h2>
+
+<!-- *"Music" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    Jukebox
+  </b>
+</h2>
+
+<!-- *"Contact" section* -->
+<h2>
+  <b>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh6ejB3dWx2OXcyYmlhanNrdm5qOHJvcWoyNGhtb3RkaHN4d2JnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/60WcGA7PcpqB53IxNf/giphy.gif" width="30">
+    Contact
+  </b>
+</h2>
 
 <!-- *Attention about copyright* -->
 > [!WARNING]
